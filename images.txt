@@ -5,4 +5,23 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-easzlab/kubeasz:3.6.2
+#easzlab/kubeasz:3.6.2
+easzlab/kubeasz-k8s-bin:v1.29.0
+easzlab/kubeasz-ext-bin:1.9.0
+registry:2
+
+calico/cni:v3.26.4
+calico/kube-controllers:v3.26.4
+calico/node:v3.26.4
+
+coredns/coredns:1.11.1
+
+easzlab/k8s-dns-node-cache:1.22.23
+
+kubernetesui/dashboard:v2.7.0
+
+kubernetesui/metrics-scraper:v1.0.8
+
+easzlab/metrics-server:v0.6.4
+
+easzlab/pause:3.9
