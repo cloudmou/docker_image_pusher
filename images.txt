@@ -34,7 +34,7 @@
 #easzlab/harbor-offline:v2.8.4
 
 
-nfs-subdir-external-provisioner:v4.0.2
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
 
 
