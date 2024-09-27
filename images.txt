@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+###################################################################
 
 #easzlab/kubeasz:3.6.3
 #easzlab/kubeasz-k8s-bin:v1.29.0
@@ -19,7 +20,6 @@
 #easzlab/metrics-server:v0.6.4
 #easzlab/pause:3.9
 
-
 #easzlab/kube-state-metrics:v2.8.2
 #easzlab/kube-webhook-certgen:v1.5.1
 #grafana/grafana:9.4.7
@@ -30,11 +30,9 @@
 #quay.io/prometheus/node-exporter:v1.5.0
 #quay.io/prometheus/prometheus:v2.42.0
 
-
 #easzlab/harbor-offline:v2.8.4
 
+#registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-
-
+registry.k8s.io/ingress-nginx/controller:v1.11.2@sha256:d5f8217feeac4887cb1ed21f27c2674e58be06bd8f5184cacea2a69abaf78dce
 
