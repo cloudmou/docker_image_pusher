@@ -39,4 +39,5 @@
 
 #docker:dind
 #jenkins/jenkins:2.462.2-jdk17
-jenkinsci/blueocean
+#jenkinsci/blueocean
+myjenkins-blueocean:2.462.2-1
