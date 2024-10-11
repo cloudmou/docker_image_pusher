@@ -40,4 +40,6 @@
 #docker:dind
 #jenkins/jenkins:2.462.2-jdk17
 #jenkinsci/blueocean
-myjenkins-blueocean:2.462.2-1
+#myjenkins-blueocean:2.462.2-1
+
+hub.ssgeek.com/jenkins_slave/jenkins_slave:jnlp
