@@ -42,4 +42,6 @@
 #jenkinsci/blueocean
 #myjenkins-blueocean:2.462.2-1
 
-nacos/nacos-mysql:5.7
+#nacos/nacos-mysql:5.7
+nacos/nacos-peer-finder-plugin:1.1
+nacos/nacos-server:latest
