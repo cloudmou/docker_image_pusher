@@ -46,4 +46,4 @@
 #nacos/nacos-peer-finder-plugin:1.1
 #nacos/nacos-server:latest
 
-wurstmeister/zookeeper:3.8
+wurstmeister/zookeeper:latest
