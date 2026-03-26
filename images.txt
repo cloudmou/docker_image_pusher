@@ -46,4 +46,6 @@
 #nacos/nacos-peer-finder-plugin:1.1
 #nacos/nacos-server:latest
 
-wurstmeister/zookeeper:latest
+#wurstmeister/zookeeper:latest
+
+sonarqube:8.9.6-community
