@@ -49,5 +49,7 @@
 #wurstmeister/zookeeper:latest
 
 #sonarqube:8.9.6-community
-postgres:12
-postgres:14:4
+#postgres:12
+#postgres:14:4
+
+nginx:1.23.2
